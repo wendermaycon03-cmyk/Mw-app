@@ -1,0 +1,5 @@
+✅ Backend Node.js + PostgreSQL (já temos)
+✅ Frontend React Web (preciso terminar)
+✅ Docker + Docker Compose (para deploy fácil)
+✅ Testes Jest (backend + frontend)
+✅ README.md com instruções
